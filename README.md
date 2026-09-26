@@ -1,16 +1,23 @@
-## Hi there 👋
+# Zinsanjp
 
-<!--
-**Zinsanjp/Zinsanjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web3 Developer & Open Source Contributor**
 
-Here are some ideas to get you started:
+CAW contributor, working across backend, Web3 integrations,
+authentication, security, and smart contracts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open Source
+
+### CAW
+
+Contributing to [CAW](https://github.com/GilgameshCaw/Caw), including:
+
+- Security research and vulnerability fixes
+- Backend / API development
+- Authentication and signature verification
+- WebAuthn / ERC-1271 / EIP-712
+- Transaction processing and queue management
+- Solidity integration and cross-layer verification
+
+## Links
+
+- [X](https://x.com/Zinsanjp)
